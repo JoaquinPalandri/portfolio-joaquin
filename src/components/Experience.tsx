@@ -1,3 +1,4 @@
+import React from 'react';
 export default function Experience() {
     return (
 <section id="experience" className="py-20 bg-zinc-900 text-zinc-200">
